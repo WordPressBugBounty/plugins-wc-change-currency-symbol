@@ -1,0 +1,1 @@
+# plugins-wc-change-currency-symbol
